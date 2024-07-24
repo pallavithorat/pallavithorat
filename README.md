@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif
+![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/797e43ae-e76a-4b9c-aa15-2a6e50435d6a)
+
 
 
 <p align="left">
