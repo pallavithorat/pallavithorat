@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pallavi</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
 
-<h2 align="center">![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/797e43ae-e76a-4b9c-aa15-2a6e50435d6a)</h2>
+<img align="left" src = "![image_processing20210722-25951-90hfg0](https://github.com/user-attachments/assets/797e43ae-e76a-4b9c-aa15-2a6e50435d6a)" alt = "pallavi" />
 
 
 
