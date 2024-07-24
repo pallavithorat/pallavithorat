@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
-<img align="left" src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif![image](https://github.com/user-attachments/assets/5620c712-d4a3-4fe1-bc60-8678b9e0b78e)
+<img align="left" src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif
 " width = "400"/>
 
 
