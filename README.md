@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 💬 Ask me about **Java Full Stack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **thoratpallavi2000@gmail.com**
 
