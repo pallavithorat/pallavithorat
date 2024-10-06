@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Fullstack developer</h3>
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **DevOps And Machine Learning**
 
 - 💬 Ask me about **Full Stack Development**
 
