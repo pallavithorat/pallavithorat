@@ -10,9 +10,6 @@
 
 - ⚡ Fun fact **I love cooking**
 
-<h3 align="left">Connect with me:https://www.linkedin.com/in/pallavi-thorat/</h3>
-
-
 <p align="left">
   <img align="left" src = "https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qdAW1TjCN57h1lbuuzvchg.gif
 " width = "400"/>
