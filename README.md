@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Full Stack Development**
 
-- 📫 How to reach me **thoratpallavi2000@gmail.com**
+- 📫 How to reach me **thoratpallavi30@gmail.com**
 
 - ⚡ Fun fact **I love cooking**
 
